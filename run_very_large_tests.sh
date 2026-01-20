@@ -1,0 +1,20 @@
+#!/bin/bash
+
+{ time ./solutions/backpack "./tests/large_test_case_1.txt" -bt; } > ./results/very_large_tests_bt.txt 2>&1
+for i in $(seq 2 10);
+do
+    { time ./solutions/backpack "./tests/large_test_case_$i.txt" -bt; } >> ./results/very_large_tests_bt.txt 2>&1
+done
+
+{ time ./solutions/backpack "./tests/large_test_case_1.txt" -btt; } > ./results/very_large_tests_btt.txt 2>&1
+for i in $(seq 2 10);
+do
+    { time ./solutions/backpack "./tests/large_test_case_$i.txt" -btt; } >> ./results/very_large_tests_btt.txt 2>&1
+done
+
+{ time ./solutions/backpack "./tests/large_test_case_1.txt" -hv; } > ./results/very_large_tests_hv.txt 2>&1
+for i in $(seq 2 10);
+do
+    { time ./solutions/backpack "./tests/large_test_case_$i.txt" -hv; } >> ./results/very_large_tests_hv.txt 2>&1
+done
+

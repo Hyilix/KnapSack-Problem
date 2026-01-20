@@ -1,0 +1,285 @@
+n = 2, val = 23
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 8, val = 141
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 20, val = 1716
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 2, val = 62
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 3, val = 52
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 8, val = 426
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 6, val = 855
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,000s
+n = 17, val = 2527
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 8, val = 358
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 11, val = 1364
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 16, val = 1826
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,000s
+n = 6, val = 141
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 8, val = 269
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,000s
+n = 19, val = 2093
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 4, val = 210
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 13, val = 2133
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 4, val = 176
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,000s
+n = 9, val = 264
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 3, val = 134
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 5, val = 90
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 3, val = 144
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 19, val = 2863
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 6, val = 264
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 14, val = 1664
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 13, val = 968
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 18, val = 1677
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 19, val = 2474
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 2, val = 61
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 15, val = 1708
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,000s
+n = 9, val = 394
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 7, val = 311
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 2, val = 16
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 8, val = 279
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,000s
+n = 10, val = 152
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 10, val = 338
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 4, val = 98
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 7, val = 142
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 5, val = 160
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 10, val = 252
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 8, val = 272
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 13, val = 2331
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 16, val = 3089
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 6, val = 301
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 9, val = 1354
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,002s
+n = 6, val = 910
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,002s
+n = 7, val = 144
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,000s
+n = 13, val = 1419
+
+real	0m0,002s
+user	0m0,000s
+sys	0m0,002s
+n = 4, val = 139
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,000s
+n = 2, val = 50
+
+real	0m0,002s
+user	0m0,000s
+sys	0m0,002s
+n = 12, val = 1452
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 6, val = 151
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 10, val = 105
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 16, val = 1851
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 5, val = 1188
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 8, val = 282
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 2, val = 87
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 2, val = 72
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,000s

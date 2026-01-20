@@ -1,0 +1,300 @@
+n = 1167, val = 44563
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1783, val = 61791
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1043, val = 48941
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1716, val = 66606
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1982, val = 79557
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1692, val = 63752
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1696, val = 78263
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1332, val = 58276
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1341, val = 61615
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1558, val = 62587
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1430, val = 52100
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1350, val = 59878
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1341, val = 68104
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1341, val = 58673
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1852, val = 70105
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,000s
+n = 1354, val = 60033
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1658, val = 68359
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,000s
+n = 1765, val = 73236
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1393, val = 67226
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1375, val = 62879
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1495, val = 51901
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1311, val = 64955
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1247, val = 57857
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1462, val = 59049
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1328, val = 55350
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1342, val = 49661
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1392, val = 55100
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1119, val = 44481
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1499, val = 61525
+
+real	0m0,003s
+user	0m0,001s
+sys	0m0,001s
+n = 1264, val = 63984
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1165, val = 51057
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1907, val = 65484
+
+real	0m0,003s
+user	0m0,001s
+sys	0m0,001s
+n = 1807, val = 63791
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 1749, val = 83253
+
+real	0m0,002s
+user	0m0,002s
+sys	0m0,000s
+n = 1519, val = 61263
+
+real	0m0,002s
+user	0m0,002s
+sys	0m0,000s
+n = 1114, val = 56705
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1368, val = 59575
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1668, val = 60944
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1763, val = 75682
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1356, val = 58860
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1492, val = 60419
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1413, val = 59014
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1973, val = 65451
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1531, val = 60508
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1657, val = 67619
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1474, val = 53934
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1094, val = 53626
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1071, val = 59169
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1395, val = 59028
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1421, val = 61116
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1245, val = 53903
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1079, val = 44728
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1137, val = 48078
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1220, val = 51876
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1613, val = 67639
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1194, val = 63207
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1997, val = 76716
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1532, val = 62120
+
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+n = 1286, val = 60980
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
+n = 1578, val = 69087
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s

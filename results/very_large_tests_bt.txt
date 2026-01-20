@@ -1,0 +1,50 @@
+n = 8978, val = 247497
+
+real	1m49,842s
+user	1m47,852s
+sys	0m1,983s
+n = 5228, val = 186798
+
+real	1m3,433s
+user	1m2,126s
+sys	0m1,301s
+n = 1162, val = 86741
+
+real	0m9,975s
+user	0m9,667s
+sys	0m0,307s
+n = 9754, val = 245099
+
+real	2m18,604s
+user	2m16,133s
+sys	0m2,458s
+n = 2874, val = 131185
+
+real	0m30,388s
+user	0m29,628s
+sys	0m0,757s
+n = 5135, val = 189223
+
+real	0m49,093s
+user	0m48,024s
+sys	0m1,065s
+n = 6255, val = 202139
+
+real	1m34,748s
+user	1m32,834s
+sys	0m1,907s
+n = 8150, val = 234105
+
+real	1m20,264s
+user	1m18,662s
+sys	0m1,593s
+n = 3411, val = 158588
+
+real	0m41,551s
+user	0m40,577s
+sys	0m0,970s
+n = 4816, val = 185532
+
+real	1m6,315s
+user	1m4,959s
+sys	0m1,350s

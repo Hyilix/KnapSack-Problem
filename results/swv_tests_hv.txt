@@ -1,0 +1,100 @@
+n = 9366, val = 17496
+
+real	0m0,004s
+user	0m0,002s
+sys	0m0,001s
+n = 7120, val = 14971
+
+real	0m0,003s
+user	0m0,002s
+sys	0m0,000s
+n = 5501, val = 12743
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 8606, val = 14775
+
+real	0m0,003s
+user	0m0,003s
+sys	0m0,000s
+n = 7654, val = 14805
+
+real	0m0,003s
+user	0m0,002s
+sys	0m0,001s
+n = 9805, val = 17008
+
+real	0m0,004s
+user	0m0,003s
+sys	0m0,000s
+n = 8679, val = 14492
+
+real	0m0,003s
+user	0m0,003s
+sys	0m0,000s
+n = 6712, val = 14325
+
+real	0m0,003s
+user	0m0,002s
+sys	0m0,001s
+n = 6859, val = 13787
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 6738, val = 13633
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 8203, val = 15640
+
+real	0m0,003s
+user	0m0,001s
+sys	0m0,002s
+n = 8818, val = 16645
+
+real	0m0,003s
+user	0m0,002s
+sys	0m0,001s
+n = 6000, val = 14277
+
+real	0m0,002s
+user	0m0,002s
+sys	0m0,000s
+n = 8398, val = 15626
+
+real	0m0,003s
+user	0m0,002s
+sys	0m0,001s
+n = 9672, val = 18664
+
+real	0m0,003s
+user	0m0,003s
+sys	0m0,000s
+n = 7750, val = 15199
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 6899, val = 15810
+
+real	0m0,003s
+user	0m0,002s
+sys	0m0,000s
+n = 7947, val = 14457
+
+real	0m0,003s
+user	0m0,001s
+sys	0m0,002s
+n = 6257, val = 12544
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,001s
+n = 7646, val = 15689
+
+real	0m0,003s
+user	0m0,003s
+sys	0m0,000s
