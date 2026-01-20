@@ -25,11 +25,14 @@ w2 v2
 
 # Test Output Format
 
+```
 n = [number of items selected], val = [total value]
 
 real   [time]s
 user   [time]s
 sys    [time]s
+...
+```
 
 # Usage
 
