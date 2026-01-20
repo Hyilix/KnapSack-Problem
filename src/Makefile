@@ -1,11 +1,8 @@
-# Copyright 2023 Echipa PCLP1
-# Am imprumutat si eu exemplul:)
-
-# compiler setup
+# Compiler setup
 CC=gcc
 CFLAGS=-Wall -Wextra -std=c99 -O3
 
-# define targets
+# Define targets
 TARGETS = backpack
 
 build: $(TARGETS)

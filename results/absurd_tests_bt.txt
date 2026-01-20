@@ -1,50 +1,50 @@
-n = 6, val = 2729
+./run_absurd_tests.sh: line 3: ./solutions/backpack: No such file or directory
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
-n = 8, val = 3819
-
-real	0m0,001s
-user	0m0,001s
 sys	0m0,000s
-n = 27, val = 9096
+./run_absurd_tests.sh: line 6: ./solutions/backpack: No such file or directory
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
-n = 26, val = 10397
+sys	0m0,000s
+./run_absurd_tests.sh: line 6: ./solutions/backpack: No such file or directory
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
-n = 13, val = 6599
-
-real	0m0,001s
-user	0m0,001s
 sys	0m0,000s
-n = 15, val = 8473
+./run_absurd_tests.sh: line 6: ./solutions/backpack: No such file or directory
 
-real	0m0,001s
-user	0m0,001s
-sys	0m0,000s
-n = 17, val = 7059
-
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
-n = 14, val = 6853
-
-real	0m0,001s
-user	0m0,001s
 sys	0m0,000s
-n = 26, val = 9305
+./run_absurd_tests.sh: line 6: ./solutions/backpack: No such file or directory
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
-n = 14, val = 6958
+./run_absurd_tests.sh: line 6: ./solutions/backpack: No such file or directory
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
+sys	0m0,000s
+./run_absurd_tests.sh: line 6: ./solutions/backpack: No such file or directory
+
+real	0m0,000s
+user	0m0,000s
+sys	0m0,000s
+./run_absurd_tests.sh: line 6: ./solutions/backpack: No such file or directory
+
+real	0m0,000s
+user	0m0,000s
+sys	0m0,000s
+./run_absurd_tests.sh: line 6: ./solutions/backpack: No such file or directory
+
+real	0m0,000s
+user	0m0,000s
+sys	0m0,000s
+./run_absurd_tests.sh: line 6: ./solutions/backpack: No such file or directory
+
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
