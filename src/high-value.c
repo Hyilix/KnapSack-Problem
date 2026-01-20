@@ -14,22 +14,23 @@ int objectwvcomp(const void *obj1, const void *obj2) {
 	double wr1 = 1.0 * maximumw / o1.weight;
 	double wr2 = 1.0 * maximumw / o2.weight;
 
-	//importance ratio = 1/e
+	// importance ratio = 1/e
 	double impr = 0.5;
 
 	wvr1 = wvr1 * impr + wr1 * (1 - impr);
 	wvr2 = wvr2 * impr + wr2 * (1 - impr);
-	
+
 	if (o1.value == 0) {
 		return 1;
 	}
     if (o2.value == 0) {
-        return -1;    
+        return -1;
     }
 
 	if (wvr1 > wvr2) {
 		return -1;
 	}
+
 	if (wvr2 > wvr1) {
 		return 1;
 	}

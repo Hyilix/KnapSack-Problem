@@ -20,7 +20,6 @@ static void update_best_solution(object *current, int current_size, object *best
     }
 }
 
-
 // Create memoization table
 static MemoEntry **create_memo_table(int n, int maxw) {
     MemoEntry **memo = malloc(n * sizeof(MemoEntry *));

@@ -1,300 +1,300 @@
-n = 1167, val = 85722
+n = 1167, val = 85418
 
-real	0m0,209s
-user	0m2,154s
-sys	0m0,036s
-n = 1783, val = 109555
+real	0m0,187s
+user	0m1,765s
+sys	0m0,039s
+n = 1783, val = 107368
 
-real	0m0,395s
-user	0m3,956s
-sys	0m0,065s
-n = 1043, val = 81326
+real	0m0,375s
+user	0m3,492s
+sys	0m0,080s
+n = 1043, val = 82220
 
-real	0m0,206s
-user	0m2,138s
-sys	0m0,036s
+real	0m0,171s
+user	0m1,531s
+sys	0m0,038s
 n = 1716, val = 105531
 
-real	0m0,374s
-user	0m3,765s
-sys	0m0,066s
-n = 1982, val = 119978
+real	0m0,372s
+user	0m3,441s
+sys	0m0,077s
+n = 1982, val = 118098
 
-real	0m0,427s
-user	0m4,537s
-sys	0m0,073s
+real	0m0,368s
+user	0m3,289s
+sys	0m0,094s
 n = 1692, val = 105504
 
-real	0m0,210s
-user	0m2,219s
+real	0m0,200s
+user	0m1,873s
 sys	0m0,040s
-n = 1696, val = 113197
+n = 1696, val = 111044
 
-real	0m0,388s
-user	0m3,932s
-sys	0m0,067s
-n = 1332, val = 101333
+real	0m0,316s
+user	0m2,841s
+sys	0m0,080s
+n = 1332, val = 99041
 
-real	0m0,317s
-user	0m3,184s
-sys	0m0,062s
-n = 1341, val = 98806
+real	0m0,305s
+user	0m2,809s
+sys	0m0,065s
+n = 1341, val = 99597
 
-real	0m0,218s
-user	0m2,193s
-sys	0m0,044s
-n = 1558, val = 96685
-
-real	0m0,388s
-user	0m3,926s
-sys	0m0,062s
-n = 1430, val = 88764
-
-real	0m0,309s
-user	0m2,966s
-sys	0m0,052s
-n = 1350, val = 93861
-
-real	0m0,340s
-user	0m3,390s
-sys	0m0,050s
-n = 1341, val = 99613
-
-real	0m0,188s
-user	0m1,943s
-sys	0m0,029s
-n = 1341, val = 92671
-
-real	0m0,190s
-user	0m1,928s
-sys	0m0,034s
-n = 1852, val = 104404
-
-real	0m0,303s
-user	0m3,075s
-sys	0m0,046s
-n = 1354, val = 95231
-
-real	0m0,240s
-user	0m2,499s
-sys	0m0,032s
-n = 1658, val = 109236
-
-real	0m0,275s
-user	0m2,876s
-sys	0m0,041s
-n = 1765, val = 107261
-
-real	0m0,345s
-user	0m3,570s
-sys	0m0,054s
-n = 1393, val = 105916
-
-real	0m0,298s
-user	0m2,905s
-sys	0m0,060s
-n = 1375, val = 95549
-
-real	0m0,233s
-user	0m2,381s
+real	0m0,189s
+user	0m1,717s
 sys	0m0,043s
-n = 1495, val = 96193
+n = 1558, val = 96082
 
-real	0m0,255s
-user	0m2,642s
-sys	0m0,040s
-n = 1311, val = 94419
-
-real	0m0,319s
-user	0m3,130s
-sys	0m0,058s
-n = 1247, val = 94091
-
-real	0m0,271s
-user	0m2,720s
-sys	0m0,051s
-n = 1462, val = 101976
-
-real	0m0,340s
-user	0m3,322s
-sys	0m0,055s
-n = 1328, val = 88074
-
-real	0m0,271s
-user	0m2,649s
-sys	0m0,047s
-n = 1342, val = 90980
-
-real	0m0,199s
-user	0m1,956s
-sys	0m0,036s
-n = 1392, val = 96566
-
-real	0m0,211s
-user	0m2,072s
-sys	0m0,037s
-n = 1119, val = 80899
-
-real	0m0,145s
-user	0m1,461s
-sys	0m0,025s
-n = 1499, val = 100545
-
-real	0m0,260s
-user	0m2,572s
-sys	0m0,046s
-n = 1264, val = 96883
-
-real	0m0,257s
-user	0m2,594s
-sys	0m0,039s
-n = 1165, val = 90613
-
-real	0m0,159s
-user	0m1,567s
-sys	0m0,029s
-n = 1907, val = 104993
-
-real	0m0,508s
-user	0m5,387s
-sys	0m0,073s
-n = 1807, val = 100585
-
-real	0m0,340s
-user	0m3,520s
-sys	0m0,051s
-n = 1749, val = 129131
-
-real	0m0,318s
-user	0m3,149s
-sys	0m0,062s
-n = 1519, val = 98999
-
-real	0m0,256s
-user	0m2,288s
-sys	0m0,056s
-n = 1114, val = 89234
-
-real	0m0,239s
-user	0m2,361s
-sys	0m0,041s
-n = 1368, val = 96947
-
-real	0m0,300s
-user	0m2,974s
-sys	0m0,057s
-n = 1668, val = 108126
-
-real	0m0,215s
-user	0m2,182s
-sys	0m0,044s
-n = 1763, val = 106763
-
-real	0m0,215s
-user	0m2,130s
-sys	0m0,035s
-n = 1356, val = 98166
-
-real	0m0,285s
-user	0m2,902s
-sys	0m0,046s
-n = 1492, val = 95436
-
-real	0m0,330s
-user	0m3,272s
-sys	0m0,057s
-n = 1413, val = 96867
-
-real	0m0,222s
-user	0m2,140s
-sys	0m0,034s
-n = 1973, val = 107312
-
-real	0m0,256s
-user	0m2,521s
-sys	0m0,042s
-n = 1531, val = 101242
-
-real	0m0,264s
-user	0m2,594s
-sys	0m0,052s
-n = 1657, val = 107358
-
-real	0m0,302s
-user	0m3,171s
-sys	0m0,049s
-n = 1474, val = 104663
+real	0m0,326s
+user	0m2,863s
+sys	0m0,080s
+n = 1430, val = 89960
 
 real	0m0,259s
-user	0m2,557s
-sys	0m0,048s
-n = 1094, val = 91678
+user	0m2,269s
+sys	0m0,065s
+n = 1350, val = 93861
 
-real	0m0,255s
-user	0m2,424s
-sys	0m0,045s
-n = 1071, val = 94641
+real	0m0,277s
+user	0m2,452s
+sys	0m0,058s
+n = 1341, val = 100018
 
-real	0m0,239s
-user	0m2,390s
-sys	0m0,040s
-n = 1395, val = 93217
+real	0m0,150s
+user	0m1,338s
+sys	0m0,035s
+n = 1341, val = 93528
 
-real	0m0,241s
-user	0m2,355s
+real	0m0,165s
+user	0m1,494s
+sys	0m0,039s
+n = 1852, val = 103185
+
+real	0m0,289s
+user	0m2,729s
+sys	0m0,053s
+n = 1354, val = 95161
+
+real	0m0,212s
+user	0m1,985s
 sys	0m0,044s
-n = 1421, val = 106001
+n = 1658, val = 107885
 
-real	0m0,255s
-user	0m2,559s
-sys	0m0,037s
-n = 1245, val = 92346
+real	0m0,256s
+user	0m2,398s
+sys	0m0,056s
+n = 1765, val = 108604
 
-real	0m0,274s
-user	0m2,737s
-sys	0m0,046s
-n = 1079, val = 86937
+real	0m0,290s
+user	0m2,670s
+sys	0m0,065s
+n = 1393, val = 109226
+
+real	0m0,282s
+user	0m2,620s
+sys	0m0,063s
+n = 1375, val = 97676
+
+real	0m0,206s
+user	0m1,947s
+sys	0m0,039s
+n = 1495, val = 98097
+
+real	0m0,243s
+user	0m2,296s
+sys	0m0,048s
+n = 1311, val = 96675
+
+real	0m0,309s
+user	0m2,887s
+sys	0m0,060s
+n = 1247, val = 92038
 
 real	0m0,258s
-user	0m2,582s
-sys	0m0,046s
-n = 1137, val = 80455
+user	0m2,418s
+sys	0m0,051s
+n = 1462, val = 98094
 
-real	0m0,276s
-user	0m2,696s
+real	0m0,282s
+user	0m2,488s
+sys	0m0,059s
+n = 1328, val = 87342
+
+real	0m0,216s
+user	0m1,904s
+sys	0m0,050s
+n = 1342, val = 90980
+
+real	0m0,169s
+user	0m1,536s
+sys	0m0,042s
+n = 1392, val = 96139
+
+real	0m0,179s
+user	0m1,598s
+sys	0m0,042s
+n = 1119, val = 76188
+
+real	0m0,141s
+user	0m1,307s
+sys	0m0,027s
+n = 1499, val = 102547
+
+real	0m0,221s
+user	0m2,033s
 sys	0m0,046s
-n = 1220, val = 82823
+n = 1264, val = 98429
+
+real	0m0,210s
+user	0m1,838s
+sys	0m0,046s
+n = 1165, val = 92959
+
+real	0m0,127s
+user	0m1,158s
+sys	0m0,027s
+n = 1907, val = 104993
+
+real	0m0,380s
+user	0m3,255s
+sys	0m0,095s
+n = 1807, val = 102092
+
+real	0m0,318s
+user	0m3,007s
+sys	0m0,061s
+n = 1749, val = 125878
+
+real	0m0,255s
+user	0m2,317s
+sys	0m0,054s
+n = 1519, val = 100472
+
+real	0m0,220s
+user	0m1,978s
+sys	0m0,050s
+n = 1114, val = 87496
+
+real	0m0,225s
+user	0m2,068s
+sys	0m0,049s
+n = 1368, val = 98750
+
+real	0m0,255s
+user	0m2,257s
+sys	0m0,057s
+n = 1668, val = 107042
+
+real	0m0,211s
+user	0m1,967s
+sys	0m0,049s
+n = 1763, val = 106844
+
+real	0m0,187s
+user	0m1,712s
+sys	0m0,042s
+n = 1356, val = 95908
 
 real	0m0,273s
-user	0m2,746s
-sys	0m0,052s
-n = 1613, val = 107480
+user	0m2,521s
+sys	0m0,058s
+n = 1492, val = 97963
 
-real	0m0,272s
-user	0m2,715s
-sys	0m0,052s
-n = 1194, val = 92444
+real	0m0,308s
+user	0m2,830s
+sys	0m0,068s
+n = 1413, val = 96867
 
-real	0m0,175s
-user	0m1,778s
-sys	0m0,026s
-n = 1997, val = 108481
+real	0m0,176s
+user	0m1,570s
+sys	0m0,043s
+n = 1973, val = 103851
 
-real	0m0,443s
-user	0m4,681s
-sys	0m0,069s
-n = 1532, val = 105096
+real	0m0,221s
+user	0m1,997s
+sys	0m0,050s
+n = 1531, val = 103320
 
-real	0m0,217s
-user	0m2,246s
-sys	0m0,032s
-n = 1286, val = 95034
+real	0m0,227s
+user	0m2,075s
+sys	0m0,048s
+n = 1657, val = 107004
 
-real	0m0,228s
-user	0m2,251s
-sys	0m0,037s
-n = 1578, val = 102370
+real	0m0,276s
+user	0m2,601s
+sys	0m0,057s
+n = 1474, val = 105954
+
+real	0m0,251s
+user	0m2,361s
+sys	0m0,050s
+n = 1094, val = 87377
+
+real	0m0,214s
+user	0m1,908s
+sys	0m0,049s
+n = 1071, val = 92842
 
 real	0m0,222s
-user	0m2,207s
-sys	0m0,035s
+user	0m2,024s
+sys	0m0,049s
+n = 1395, val = 91800
+
+real	0m0,210s
+user	0m1,925s
+sys	0m0,040s
+n = 1421, val = 104695
+
+real	0m0,203s
+user	0m1,800s
+sys	0m0,048s
+n = 1245, val = 93295
+
+real	0m0,230s
+user	0m2,080s
+sys	0m0,051s
+n = 1079, val = 85461
+
+real	0m0,249s
+user	0m2,294s
+sys	0m0,049s
+n = 1137, val = 80206
+
+real	0m0,264s
+user	0m2,420s
+sys	0m0,051s
+n = 1220, val = 81943
+
+real	0m0,254s
+user	0m2,321s
+sys	0m0,047s
+n = 1613, val = 106776
+
+real	0m0,226s
+user	0m2,032s
+sys	0m0,051s
+n = 1194, val = 93912
+
+real	0m0,156s
+user	0m1,452s
+sys	0m0,032s
+n = 1997, val = 108000
+
+real	0m0,359s
+user	0m3,161s
+sys	0m0,083s
+n = 1532, val = 99984
+
+real	0m0,201s
+user	0m1,915s
+sys	0m0,045s
+n = 1286, val = 93204
+
+real	0m0,184s
+user	0m1,663s
+sys	0m0,039s
+n = 1578, val = 100408
+
+real	0m0,205s
+user	0m1,892s
+sys	0m0,044s

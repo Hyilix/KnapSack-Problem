@@ -6,28 +6,28 @@ sys	0m0,001s
 n = 8, val = 3819
 
 real	0m0,001s
-user	0m0,000s
-sys	0m0,001s
+user	0m0,001s
+sys	0m0,000s
 n = 27, val = 9096
 
-real	0m0,002s
+real	0m0,001s
 user	0m0,000s
 sys	0m0,001s
 n = 26, val = 10397
 
-real	0m0,002s
-user	0m0,002s
-sys	0m0,000s
+real	0m0,001s
+user	0m0,000s
+sys	0m0,001s
 n = 13, val = 6599
 
 real	0m0,001s
-user	0m0,000s
-sys	0m0,001s
+user	0m0,001s
+sys	0m0,000s
 n = 15, val = 8473
 
 real	0m0,001s
-user	0m0,000s
-sys	0m0,001s
+user	0m0,001s
+sys	0m0,000s
 n = 17, val = 7059
 
 real	0m0,001s
@@ -36,8 +36,8 @@ sys	0m0,001s
 n = 14, val = 6853
 
 real	0m0,001s
-user	0m0,000s
-sys	0m0,001s
+user	0m0,001s
+sys	0m0,000s
 n = 26, val = 9305
 
 real	0m0,001s
@@ -46,5 +46,5 @@ sys	0m0,000s
 n = 14, val = 6958
 
 real	0m0,001s
-user	0m0,000s
-sys	0m0,001s
+user	0m0,001s
+sys	0m0,000s

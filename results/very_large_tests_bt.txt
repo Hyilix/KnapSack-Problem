@@ -1,50 +1,50 @@
 n = 8978, val = 247497
 
-real	1m49,842s
-user	1m47,852s
-sys	0m1,983s
+real	0m53,569s
+user	0m50,966s
+sys	0m2,396s
 n = 5228, val = 186798
 
-real	1m3,433s
-user	1m2,126s
-sys	0m1,301s
+real	0m31,573s
+user	0m29,876s
+sys	0m1,557s
 n = 1162, val = 86741
 
-real	0m9,975s
-user	0m9,667s
-sys	0m0,307s
+real	0m4,456s
+user	0m4,044s
+sys	0m0,390s
 n = 9754, val = 245099
 
-real	2m18,604s
-user	2m16,133s
-sys	0m2,458s
+real	1m6,499s
+user	1m3,366s
+sys	0m2,874s
 n = 2874, val = 131185
 
-real	0m30,388s
-user	0m29,628s
-sys	0m0,757s
+real	0m15,302s
+user	0m14,306s
+sys	0m0,932s
 n = 5135, val = 189223
 
-real	0m49,093s
-user	0m48,024s
-sys	0m1,065s
+real	0m26,138s
+user	0m24,735s
+sys	0m1,301s
 n = 6255, val = 202139
 
-real	1m34,748s
-user	1m32,834s
-sys	0m1,907s
+real	0m48,422s
+user	0m45,928s
+sys	0m2,316s
 n = 8150, val = 234105
 
-real	1m20,264s
-user	1m18,662s
-sys	0m1,593s
+real	0m41,183s
+user	0m39,083s
+sys	0m1,957s
 n = 3411, val = 158588
 
-real	0m41,551s
-user	0m40,577s
-sys	0m0,970s
+real	0m22,055s
+user	0m20,758s
+sys	0m1,211s
 n = 4816, val = 185532
 
-real	1m6,315s
-user	1m4,959s
-sys	0m1,350s
+real	0m31,958s
+user	0m30,177s
+sys	0m1,670s

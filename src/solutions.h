@@ -11,5 +11,4 @@ void high_value(object *objects, int n, int maxw, object *sol, int *sn);
 void backtracking(object *objects, int n, int maxw, object *sol, int *sn);
 void backtracking_thread(object *objects, int n, int maxw, object *sol, int *sn);
 
-
 #endif

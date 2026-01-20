@@ -76,14 +76,6 @@ int main(int argc, char **argv) {
 	func(objects, n, maxw, sol, &sn);
 
 	fprintf(output, "n = %d, val = %ld\n", n, compute_value(sol, sn));
-	
-	/*
-	fprintf(output, "\nOptimal objects:\n");
-
-	for (int i = 0; i < sn; i++) {
-		fprintf(output, "id=%d: (w=%d, v=%d)\n", sol[i].id, sol[i].weight, sol[i].value);
-	}
-	*/
 
 	return 0;
 }

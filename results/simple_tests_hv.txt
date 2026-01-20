@@ -1,12 +1,12 @@
 n = 2, val = 30
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 8, val = 141
 
-real	0m0,002s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 20, val = 1383
 
@@ -15,29 +15,29 @@ user	0m0,000s
 sys	0m0,001s
 n = 2, val = 62
 
-real	0m0,002s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,002s
+sys	0m0,000s
 n = 3, val = 57
 
-real	0m0,002s
-user	0m0,001s
-sys	0m0,001s
+real	0m0,000s
+user	0m0,000s
+sys	0m0,000s
 n = 8, val = 426
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 6, val = 855
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 17, val = 2403
 
-real	0m0,002s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,002s
+sys	0m0,000s
 n = 8, val = 358
 
 real	0m0,001s
@@ -45,74 +45,74 @@ user	0m0,000s
 sys	0m0,001s
 n = 11, val = 1133
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 16, val = 1505
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 6, val = 141
 
 real	0m0,001s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 8, val = 269
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 19, val = 2050
 
-real	0m0,002s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 4, val = 272
 
-real	0m0,002s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 13, val = 1804
 
-real	0m0,002s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,002s
+sys	0m0,000s
 n = 4, val = 184
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 9, val = 264
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 3, val = 134
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 5, val = 90
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 3, val = 154
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 19, val = 2679
 
 real	0m0,001s
-user	0m0,001s
-sys	0m0,000s
-n = 6, val = 264
-
-real	0m0,001s
 user	0m0,000s
 sys	0m0,001s
+n = 6, val = 264
+
+real	0m0,000s
+user	0m0,000s
+sys	0m0,000s
 n = 14, val = 1664
 
 real	0m0,001s
@@ -120,82 +120,82 @@ user	0m0,000s
 sys	0m0,001s
 n = 13, val = 878
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 18, val = 1273
 
 real	0m0,001s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 19, val = 1850
 
 real	0m0,001s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 2, val = 129
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 15, val = 1547
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 9, val = 394
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 7, val = 311
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 2, val = 32
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 8, val = 261
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 10, val = 152
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
 sys	0m0,000s
 n = 10, val = 338
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 4, val = 98
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 7, val = 90
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 5, val = 92
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 10, val = 247
 
 real	0m0,001s
-user	0m0,000s
-sys	0m0,001s
+user	0m0,001s
+sys	0m0,000s
 n = 8, val = 275
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
 sys	0m0,001s
 n = 13, val = 2331
@@ -205,19 +205,19 @@ user	0m0,001s
 sys	0m0,000s
 n = 16, val = 3089
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 6, val = 301
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 9, val = 1166
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 6, val = 910
 
 real	0m0,001s
@@ -225,8 +225,8 @@ user	0m0,001s
 sys	0m0,000s
 n = 7, val = 144
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 13, val = 1419
 
@@ -235,33 +235,33 @@ user	0m0,001s
 sys	0m0,000s
 n = 4, val = 148
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 2, val = 74
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 12, val = 1309
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 6, val = 151
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 10, val = 105
 
-real	0m0,001s
+real	0m0,000s
 user	0m0,000s
-sys	0m0,001s
+sys	0m0,000s
 n = 16, val = 1602
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 5, val = 1323
 
@@ -270,16 +270,16 @@ user	0m0,000s
 sys	0m0,000s
 n = 8, val = 282
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 2, val = 87
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s
 n = 2, val = 91
 
-real	0m0,001s
-user	0m0,001s
+real	0m0,000s
+user	0m0,000s
 sys	0m0,000s

@@ -1,22 +1,22 @@
 n = 8978, val = 211575
 
-real	0m0,004s
+real	0m0,003s
 user	0m0,003s
-sys	0m0,001s
+sys	0m0,000s
 n = 5228, val = 143438
 
-real	0m0,003s
-user	0m0,001s
-sys	0m0,001s
+real	0m0,002s
+user	0m0,002s
+sys	0m0,000s
 n = 1162, val = 52324
 
 real	0m0,001s
-user	0m0,001s
-sys	0m0,000s
+user	0m0,000s
+sys	0m0,001s
 n = 9754, val = 207263
 
-real	0m0,003s
-user	0m0,002s
+real	0m0,002s
+user	0m0,001s
 sys	0m0,001s
 n = 2874, val = 84734
 
@@ -25,14 +25,14 @@ user	0m0,001s
 sys	0m0,000s
 n = 5135, val = 151017
 
-real	0m0,002s
-user	0m0,002s
+real	0m0,001s
+user	0m0,001s
 sys	0m0,000s
 n = 6255, val = 159051
 
 real	0m0,002s
 user	0m0,001s
-sys	0m0,001s
+sys	0m0,000s
 n = 8150, val = 197166
 
 real	0m0,002s
@@ -40,11 +40,11 @@ user	0m0,001s
 sys	0m0,001s
 n = 3411, val = 120603
 
-real	0m0,002s
+real	0m0,001s
 user	0m0,001s
 sys	0m0,000s
 n = 4816, val = 145025
 
-real	0m0,002s
+real	0m0,001s
 user	0m0,001s
-sys	0m0,001s
+sys	0m0,000s
